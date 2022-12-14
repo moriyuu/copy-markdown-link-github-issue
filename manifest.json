@@ -1,5 +1,5 @@
 {
-  "name": "Copy Markdown Link",
+  "name": "Copy Markdown Link GitHub Issue",
   "description": "Copy link in Markdown format.",
   "version": "0.1.0",
   "manifest_version": 3,
@@ -26,5 +26,5 @@
       }
     }
   },
-  "permissions": ["activeTab", "clipboardWrite"]
+  "permissions": ["activeTab", "clipboardWrite", "scripting"]
 }
